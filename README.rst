@@ -1,5 +1,5 @@
 ====================================
-CEReS Workshop on Python Programming
+CEReS Workshop on Python Programming - bla2
 ====================================
 
 A workshop on Python programming and other useful tools, for the Coastal and Environmental Remote Sensing (CEReS) group at the University of Edinburgh.
